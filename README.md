@@ -8,6 +8,8 @@ Case is compatible with PCB, FR4 plate and all hardware (standoffs and screws) f
 Includes an optional handle for the QAZ on the go!
 2 Case files, one with handle holes, one without.
 
+Includes an optional plate file for use with laser cutters.
+
 Case requires four M2x10mm standoffs if used with plate, four M2x5mm standoffs and M2 washers if used plateless.
 
 *All files are provided as is and I accept no liability if they aren't very good.*
